@@ -3,7 +3,7 @@ import React from 'react'
 function Testing() {
   return (
     <div>
-      <h1>Testing component modified from srinath branch</h1>
+      <h1>Testing component modified from sribhai bholtey branch</h1>
     </div>
   )
 }
